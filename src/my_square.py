@@ -5,4 +5,8 @@ def my_square(z):
 	'''
 	return(z**2)
 
+def my_add(x):
+	return(x+5)
+
 print(my_square(42))
+print(my_add(5))
